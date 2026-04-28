@@ -1,2 +1,22 @@
 # PUREML-Machine-Learning-Toolkit-from-Scratch
-PUREML is a custom machine learning library built entirely from scratch in Python. It focuses on implementing core machine learning algorithms and mathematical concepts without relying on external ML frameworks such as scikit-learn or TensorFlow.
+## Overview
+
+- Developed a machine learning toolkit implementing 25+ algorithms from scratch
+- Designed a scikit-learn-inspired API for consistency and usability
+- Built a modular and extensible architecture for scalability
+- Focused on core ML concepts, mathematical foundations, and clean system design
+
+## Features
+
+- Supervised learning algorithms
+- Custom implementation of activation functions
+- Modular and reusable architecture
+- Importable Python package structure
+- Lightweight and dependency-free
+
+## Architecture
+
+The project follows a modular design:
+- Each algorithm is implemented independently
+- Shared utilities for optimization and evaluation
+- Clean separation of concerns for maintainability and extensibility
