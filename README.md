@@ -1,6 +1,6 @@
 # PUREML-Machine-Learning-Toolkit-from-Scratch 
 ## Overview 
- 
+ v
 - Developed a machine learning toolkit implementing 25+ algorithms from scratch 
 - Designed a scikit-learn-inspired API for consistency and usability
 - Built a modular and extensible architecture for scalability
