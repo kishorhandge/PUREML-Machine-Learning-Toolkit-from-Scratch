@@ -1,4 +1,4 @@
-# PUREML-Machine-Learning-Toolkit-from-Scratch 
+# PUREML-Machine-Learning-Toolkit-from-Scratch  
 ## Overview     
  v 
 - Developed a machine learning toolkit implementing 25+ algorithms from scratch 
