@@ -6,7 +6,7 @@
 - Built a modular and extensible architecture for scalability
 - Focused on core ML concepts, mathematical foundations, and clean system design
 
-## Features
+## Features 
 
 - Supervised learning algorithms
 - Custom implementation of activation functions
