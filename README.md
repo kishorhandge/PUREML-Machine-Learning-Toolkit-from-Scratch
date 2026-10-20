@@ -11,7 +11,7 @@
 - Supervised learning algorithms
 - Custom implementation of activation functions
 - Modular and reusable architecture
-- Importable Python package structure
+- Importable Python package structure 
 - Lightweight and dependency-free
 
 ## Architecture
